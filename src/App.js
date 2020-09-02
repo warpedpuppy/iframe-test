@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -10,7 +9,6 @@ function App() {
     maxWidth: '600px',
     minHeight: '1072px',
     padding: '0', 
-    margin:'0',
     overflow: 'hidden',
     border:'none',
     display: 'block', 
