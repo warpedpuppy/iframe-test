@@ -5,9 +5,8 @@ function App() {
   
   const style = {
     width: '100vw', 
-    height: '100%',
-    maxWidth: '600px',
-    minHeight: '1072px',
+    maxWidth: '750px',
+    minHeight: '1000px',
     padding: '0', 
     overflow: 'hidden',
     border:'none',
