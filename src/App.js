@@ -14,13 +14,18 @@ function App() {
     margin: '0 auto',
     outline: 'none',
   }
+
   return (
-    <div className="App">
+    <main>
+    
+    <div className="iframe-cont">
         <iframe 
         src="https://infallible-kare-f8cd09.netlify.app/" 
         style={style}
         title="Crystal Ball Fundraiser" ></iframe>
     </div>
+    <div className="filler"></div>
+    </main>
   );
 }
 

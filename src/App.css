@@ -1,7 +1,14 @@
-.App {
+body {
   text-align: center;
 }
 
+.App {
+  text-align: center;
+}
+.filler {
+  height: 2000px;
+  background-color: yellow;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
